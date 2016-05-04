@@ -30,8 +30,11 @@ sdf
 s
 
 s
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 134e21273c499e528c6882a2aa1c9ba8b3b64b52
 fsf
 
 fgfgfg
